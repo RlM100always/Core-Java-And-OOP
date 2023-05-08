@@ -20,12 +20,13 @@
       <change afterPath="$PROJECT_DIR$/../Binary_Tree/sum_ReplaceMent_In_Binary_Tree.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DSA" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Git-Command-Error-Fixing-main" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Git-Command-Error-Fixing-main.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Git_Error_Fix" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Git_Error_Fix-main.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Check" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetInputFromUser.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JAVA_Eclipse_Folder" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_Eclipse_Folder" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../New.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Binary_Tree/Print_All_Nodes_At_Distance_K.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Binary_Tree/height_Of_Binary_Tree.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +66,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "/home/user/Desktop/Core Java OOP And DSA",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
   <component name="RecentsManager">
